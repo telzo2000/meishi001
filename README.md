@@ -10,7 +10,5 @@ QMK_Firmware will create one later.
 <br>
 Meishi Keyboardのためのリポジトリです。
 <br>
-Keyboard firmware Builderで作ったデータを置きます。
-<br>
-QMK_Firmwareでは、後日、作成します。
+
 <br>
