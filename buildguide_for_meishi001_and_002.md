@@ -10,7 +10,8 @@
 |2-1|pro micro|1|ピンヘッダ含む|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|価格変動中|
 |2-2|BLE MIcro(Pro MicroサイズのUSB対応nRF52マイコンボード)|1|電池基板キットも含む|[遊舎工房](https://yushakobo.jp)<br>[のぎすけ屋](https://nogikes.booth.pm)|１個4500円|
 |3|Diode<br>ダイオード|45|リードタイプ|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
-|4|tactile switch|45|TVBP06-B043CB-B|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)<br>[秋月電子通商](https://akizukidenshi.com/catalog/g/gP-08073/)|１個20円から|
+|4|tactile switch|45|TVBP06-B043CB-B|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)<br>[秋月電子通商](https://akizukidenshi.com/catalog/g/gP-08073/)|１個20円から|<br>
+
 この他に、USBケーブルが必要です。
 <br><br>
 
