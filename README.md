@@ -7,6 +7,9 @@ This is a repository for Meishi Keyboard.
 Meishi Keyboardのためのリポジトリです。
 <br>
 
+Build guide
+<br>
+https://github.com/telzo2000/meishi001/tree/main/firmware
 <br>
 firmware
 <br>
