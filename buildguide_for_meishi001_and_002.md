@@ -19,10 +19,10 @@ In addition, you will need a TRRS cable, USB cable, keycaps, etc.
 ## Firmware
 
 ###  QMK_FIRMWARE
-[Here](https://github.com/telzo2000/cool536/tree/main/firmware)
+[Here](https://github.com/telzo2000/meishi001/tree/main/firmware)
 
 <br>
-[remap](https://remap-keys.app/)
+[remap](https://remap-keys.app/catalog/LnDFLEBLKVYKpWCBQks4)
 
 <br>
 
