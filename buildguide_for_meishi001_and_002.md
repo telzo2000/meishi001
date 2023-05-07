@@ -115,8 +115,27 @@ Just install the firmware and you're done. If you like, print the case with a 3D
 あとはファームウェアを入れて完成です。お好みで3Dプリンタでケースを印刷して付けてください。
 <br>
 
+### Option (Ble Micro)
 
+<br>
+meishi002 is compatible with Ble Micro. Please prepare Ble Micro and battery board sold at Yusha Kobo.
+<br>
+meishi002はBle Microに対応しています。遊舎工房で販売しているBle Micro及び電池基板を用意してください。
 
+Ble micro
 
+https://shop.yushakobo.jp/products/ble-micro-pro?_pos=1&_sid=89874baf6&_ss=r
 
+電池基板
+
+https://shop.yushakobo.jp/products/ble-micro-pro-battery-board?pr_prod_strat=copurchase&pr_rec_id=4c571d55e&pr_rec_pid=6055679066273&pr_ref_pid=6055716126881&pr_seq=uniform
+
+<br>
+Attach each to the back side of the PCB.
+<br>
+それぞれをPCBの裏面に取り付けてください。
+<br>
+Please take full responsibility for the implementation of Ble Micro. The author is not detailed enough to answer all questions.
+<br>
+Ble Microの実装については、自己責任でお願いします。作者は全ての質問に答えられるほど、詳しくありません。
 
