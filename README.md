@@ -9,7 +9,7 @@ Meishi Keyboardのためのリポジトリです。
 
 Build guide
 <br>
-https://github.com/telzo2000/meishi001/tree/main/firmware
+https://github.com/telzo2000/meishi001/blob/main/buildguide_for_meishi001_and_002.md
 <br>
 firmware
 <br>
