@@ -19,6 +19,11 @@ In addition, you will need a TRRS cable, USB cable, keycaps, etc.
 ## Firmware
 
 ###  QMK_FIRMWARE
+
+参考<br>
+
+https://github.com/telzo2000/Hello_keyboard/blob/main/readme_about_firmware.md
+
 [Here](https://github.com/telzo2000/meishi001/tree/main/firmware)
 
 <br>
