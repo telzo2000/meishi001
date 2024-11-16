@@ -23,3 +23,8 @@ https://github.com/telzo2000/meishi001/tree/main/firmware
 
 ![](img/img00004.jpg)
 
+# lisence
+
+[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
+
+![](img/by-nc-sa.png)
